@@ -1,6 +1,6 @@
 {
     "name": "Base",
-    "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+    "logoURI": "https://raw.githubusercontent.com/cbswapio/cbswap-tokenlist/main/base.svg",
     "keywords": [
       "scaling",
       "layer2",
